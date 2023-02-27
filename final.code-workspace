@@ -1,0 +1,35 @@
+{
+  "folders": [
+	{
+		"path": "../../../../complete-javascript-course-master/complete-javascript-course-master/05-Guess-My-Number/final"
+	},
+	{
+		"path": "../../.."
+	},
+	{
+		"path": "../../../../react-advanced-v18-main"
+	},
+	{
+		"path": "../../../../complete-javascript-course-master/complete-javascript-course-master/16-Asynchronous"
+	},
+	{
+		"path": "../../../../qr-code-component-main"
+	},
+	{
+		"path": "../../../../../../OneDrive/Desktop/first pro"
+	},
+	{
+		"path": "../../../../Udemy_GitHub_Actions_The_Complete_Guide_2022_10.part1_Downloadly.ir/2. Git & GitHub Crash Course [Optional]/4.1 01 Starting Project"
+	},
+	{
+		"path": "../../../../../../OneDrive/Desktop/bootstrap project"
+	},
+	{
+		"path": "../../../../four-card-feature-section-master"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "four-card-feature-section-master",
+    "liveServer.settings.port": 5501
+  }
+}
